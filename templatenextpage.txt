@@ -1,0 +1,22 @@
+<!DOCTYPE html> 
+<html>
+
+<head>
+	<link rel="stylesheet" href="style.css">
+<style>
+p {text-align: center;}
+</style>
+</head>
+
+<h1>$TITLE - Chapter $CHAP_NUM</h1>
+
+<p>
+New release every 3 weeks!
+</p>
+
+<footer>
+<!-- Space lol -->
+</footer>
+
+</body> 
+</html>
